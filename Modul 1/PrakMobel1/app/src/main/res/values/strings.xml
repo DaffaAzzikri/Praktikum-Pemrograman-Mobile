@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrakMobel1</string>
+    <string name="roll">Roll</string>
+    <string name="textview">TextView</string>
+    <string name="dadu">dadu</string>
+    <string name="todo">TODO</string>
+    <string name="dadu2">dadu2</string>
+    <string name="dadu1">dadu1</string>
+</resources>
